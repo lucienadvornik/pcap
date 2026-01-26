@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# called shebang, pound bang or hash coupling - instructs the operating system to use Python3 to interpret the file
+
 """ list_utils.py is a sample Python module that exposes list utility functions """
 
 __usage_counter = 0
